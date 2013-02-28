@@ -25,7 +25,7 @@ class Settings():
         self.balloon_speed = 0.1
         # How quickly the speed of balloons rises
         #  ~1.05 during testing and ~1.01 for actual play
-        self.speed_increase_factor = 1.01
+        self.speed_increase_factor = 1.05
         self.points_per_balloon = 10
 
         # Number of balloons to release in a spawning:
